@@ -49,10 +49,10 @@ npm start >> pedidotopia/client/
 
 ## Contribuidores 🚀 
 
+* [Marcelo Britos](https://github.com/MarceloBritos)
 * [Wanda Cirone](https://github.com/WanCirone)
 * [German Moren](https://github.com/GerMoren)
 * [Facundo Sadava](https://github.com/facusada)
-* [Marcelo Britos](https://github.com/MarceloBritos)
 * [Bruno Vicente](https://github.com/brdionel)
 * [Joaquin Quiroga](https://github.com/joaquinquiroga22)
 * [Franco Silva](https://github.com/francoderweb)
