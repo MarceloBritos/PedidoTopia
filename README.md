@@ -21,7 +21,7 @@ Este trabajo es nuestro proyecto final integrador realizado en equipo como insta
 ## Instalación 🔧
 
 ```
-git clone https://github.com/WanCirone/pedidoTopia.git
+git clone https://github.com/MarceloBritos/pedidoTopia.git
 npm install >> pedidotopia/api/
 npm start >> pedidotopia/api/
 npm install >> pedidotopia/client/
